@@ -5,7 +5,7 @@ Este repositório contém os arquivos do meu portfólio online, desenvolvido par
 <h2> Como visualizar </h2>
 
 Você pode acessar o portfólio online através do seguinte link:
-https://seu-usuario.github.io/nome-do-repositorio
+https://ed-vitorino.github.io
 Tecnologias Utilizadas
 
    - HTML
