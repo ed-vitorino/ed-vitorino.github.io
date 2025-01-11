@@ -1,13 +1,13 @@
-<h1> Meu Portfólio Online </h1>
+# Meu Portfólio Online
 
-Este repositório contém os arquivos do meu portfólio online, desenvolvido para exibir meus projetos, habilidades e experiências na área de desenvolvimento. O portfólio está publicado e disponível para visualização através do GitHub Pages.
+Este repositório contém os arquivos da minha GitHub Page, onde você pode acessar meu portfólio online. O site foi construído como uma forma de prática e aprendizado básico sobre HTML e CSS, pois minha área de interesse é o desenvolvimento back-end.
 
-<h2> Como visualizar </h2>
+### Como foi feito?
 
-Você pode acessar o portfólio online através do seguinte link:
-https://ed-vitorino.github.io
-Tecnologias Utilizadas
+O projeto foi desenvolvido seguindo um tutorial do YouTuber Ademi. O repositório original pode ser acessado [aqui](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2).
 
-   - HTML
-   - CSS
-   - JavaScript
+Durante a implementação, fiz modificações para praticar e compreender o uso de HTML e CSS, ferramentas essenciais para o desenvolvimento front-end.
+
+### Objetivo do Projeto
+
+Este repositório serve como um ponto de partida para aprofundar meus conhecimentos em HTML e CSS, áreas fundamentais para qualquer desenvolvedor web. O foco principal deste projeto é criar uma base sólida para que eu possa avançar para tecnologias de back-end no futuro.
