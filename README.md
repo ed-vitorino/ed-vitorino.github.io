@@ -4,7 +4,7 @@ Este repositório contém os arquivos da minha GitHub Page, onde você pode aces
 
 ### Como foi feito?
 
-O projeto foi desenvolvido seguindo um tutorial do YouTuber Ademi. O repositório original pode ser acessado [aqui](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2).
+O projeto foi desenvolvido seguindo um tutorial do YouTuber Ademir. O repositório original pode ser acessado [aqui](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2).
 
 Durante a implementação, fiz modificações para praticar e compreender o uso de HTML e CSS, ferramentas essenciais para o desenvolvimento front-end.
 
